@@ -7,7 +7,7 @@ Repo: https://github.com/curriecoder/a-b-c
 
 ## Description
 
-This project was motivated by a desire to always be coding. With this in mind, programmers can ensure that their skills are always sharp to serve the demand.
+This project was motivated by a desire to always be coding. With this in mind, programmers can ensure that their skills are always sharp to serve the demand. Beginning at the basics to reinvestigate previous technologies used in order to cut the groove deeper, so to speak.z
 
 ## Usage
 
