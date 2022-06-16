@@ -1,5 +1,5 @@
 # a-b-c
-To perpetuate the abc's of coding.
+To perpetuate the abc's of coding. Currently focused on the Ultimate Trader application. In development at Happy Currie Studios.
 
 Deployed: https://curriecoder.github.io/code-quiz/
 
@@ -7,7 +7,9 @@ Repo: https://github.com/curriecoder/a-b-c
 
 ## Description
 
-This project was motivated by a desire to always be coding. With this in mind, programmers can ensure that their skills are always sharp to serve the demand. Beginning at the basics to reinvestigate previous technologies used in order to cut the groove deeper, so to speak.z
+This project was motivated by a desire to always be coding. With this in mind, programmers can ensure that their skills are always sharp to serve the demand. Beginning at the basics to reinvestigate previous technologies used in order to cut the groove deeper, so to speak.
+
+The project called "Ultimate Trader" is to be a collecting/trading platform via Progressive Web App (for offline functionality). This is a passion project brought on by wanting to give people the ability to share thier collection as they see fit to reduce the use of finite resources, while removing financial hurdles for those wanting.
 
 ## Usage
 
