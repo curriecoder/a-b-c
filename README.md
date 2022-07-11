@@ -1,5 +1,5 @@
 # a-b-c
-To perpetuate the abc's of coding. Currently focused on the Ultimate Trader application. In development at Happy Currie Studios.
+To perpetuate the abc's of coding. Currently focused on the Ultimate Trader application. In development at Happy Currie Studios. Yet another stroke in an ongoing oil painting, creating and created all the same.
 
 Deployed: https://curriecoder.github.io/code-quiz/
 
