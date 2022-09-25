@@ -21,12 +21,6 @@ Card.init(
     },
   },
   {
-    hooks: {
-      beforeCreate: async (newCardData) => {
-        newCardData.password = await bcrypt.hash(newCardData.password, 10);
-        return newCardData;
-      },
-    },
     sequelize,
     timestamps: false,
     freezeTableName: true,
